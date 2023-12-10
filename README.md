@@ -1,4 +1,4 @@
-# Contact_Center_Ecel_Project_Data_Analysis
+# Contact_Center_Excel_Project_Data_Analysis
 ## Project Contents
 ### Analysis For Customer Satisfaction (Overall Experience, Agent Quality of Service, Resolve Issue, Courteous, Knowledgeable And NPS)
 
